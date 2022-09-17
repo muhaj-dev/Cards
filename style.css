@@ -25,9 +25,9 @@ img{
     overflow: hidden;
     background-color: white;
     width: 30%;
-    min-width: 350px;
+    min-width: 320px;
     border-radius: 20px;
-    margin: 40px 20px;
+    margin: 20px 10px;
     height: fit-content;
 }
 header{
