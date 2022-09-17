@@ -18,14 +18,14 @@ img{
 
 .wrapper{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
 }
 .cards{
     overflow: hidden;
     background-color: white;
     width: 30%;
-    min-width: 320px;
+    min-width: 300px;
     border-radius: 20px;
     margin: 20px 10px;
     height: fit-content;
